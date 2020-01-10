@@ -76,3 +76,5 @@ native executable:
 After getting a cup of coffee, you'll be able to run this executable directly:
 
 > ./target/getting-started-1.0-SNAPSHOT-runner
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
